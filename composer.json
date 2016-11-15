@@ -13,7 +13,7 @@
     "php": ">=5.3,<8.0",
     "nikic/php-parser": "~1.1",
     "saxulum/saxulum-phpdoc-generator": "~1.0@rc",
-    "symfony/property-access": "~2.3"
+    "symfony/property-access": "~2.3, ~3.1"
   },
   "require-dev": {
     "phpunit/phpunit": "4.0.*",
